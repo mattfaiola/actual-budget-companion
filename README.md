@@ -52,8 +52,9 @@ A modern, native iOS app for managing your personal finances with the Actual Bud
 
 ### Prerequisites
 1. Clone this repository
-2. Open `iOSApp/ActualAccounts.xcodeproj` in Xcode
-3. Ensure you have a valid Apple Developer account for device testing
+2. Run make
+3. Open `iOSApp/ActualAccounts.xcodeproj` in Xcode
+4. Ensure you have a valid Apple Developer account for device testing
 
 ### Setup
 1. **Configure Actual Budget Backend**:
